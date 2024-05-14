@@ -71,6 +71,7 @@
     <Compile Include="Models\Admin.cs" />
     <Compile Include="Models\AdminAgeRangeResult.cs" />
     <Compile Include="Models\AdminCourseStatistics.cs" />
+    <Compile Include="Models\Teacher.cs" />
     <Compile Include="Models\EContext.cs" />
     <Compile Include="Models\Token.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
