@@ -1,28 +1,210 @@
-D:\DOT NET\CourseProject\BLL\bin\Debug\BLL.dll
-D:\DOT NET\CourseProject\BLL\bin\Debug\BLL.pdb
-D:\DOT NET\CourseProject\BLL\bin\Debug\AutoMapper.dll
-D:\DOT NET\CourseProject\BLL\bin\Debug\DAL.dll
-D:\DOT NET\CourseProject\BLL\bin\Debug\EntityFramework.dll
-D:\DOT NET\CourseProject\BLL\bin\Debug\DAL.pdb
-D:\DOT NET\CourseProject\BLL\bin\Debug\DAL.dll.config
-D:\DOT NET\CourseProject\BLL\bin\Debug\AutoMapper.xml
-D:\DOT NET\CourseProject\BLL\bin\Debug\EntityFramework.xml
-D:\DOT NET\CourseProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
-D:\DOT NET\CourseProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-D:\DOT NET\CourseProject\BLL\obj\Debug\BLL.csproj.Up2Date
-D:\DOT NET\CourseProject\BLL\obj\Debug\BLL.dll
-D:\DOT NET\CourseProject\BLL\obj\Debug\BLL.pdb
-D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\BLL.dll
-D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\BLL.pdb
-D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\AutoMapper.dll
-D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\DAL.dll
-D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\EntityFramework.dll
-D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\DAL.pdb
-D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\DAL.dll.config
-D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\AutoMapper.xml
-D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\EntityFramework.xml
-D:\DOT NET final assignment\CourseProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
-D:\DOT NET final assignment\CourseProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-D:\DOT NET final assignment\CourseProject\BLL\obj\Debug\BLL.csproj.Up2Date
-D:\DOT NET final assignment\CourseProject\BLL\obj\Debug\BLL.dll
-D:\DOT NET final assignment\CourseProject\BLL\obj\Debug\BLL.pdb
+C:\Users\asus\source\repos\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\asus\source\repos\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\asus\source\repos\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\asus\source\repos\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\asus\source\repos\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\asus\source\repos\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\asus\source\repos\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\asus\source\repos\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\asus\source\repos\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\asus\source\repos\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\asus\source\repos\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\asus\source\repos\TriUniversity\BLL\obj\Debug\BLL.pdb
+C:\Users\asus\Desktop\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\asus\Desktop\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\asus\Desktop\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\asus\Desktop\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\asus\Desktop\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\asus\Desktop\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\asus\Desktop\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\asus\Desktop\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\asus\Desktop\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\asus\Desktop\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\asus\Desktop\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\asus\Desktop\TriUniversity\BLL\obj\Debug\BLL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TRI-UNI\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TRI-UNI\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TRI-UNI\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TRI-UNI\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TRI-UNI\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TRI-UNI\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TRI-UNI\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\Mehedi Hasan Rabbi\Desktop\TRI-UNI\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Mehedi Hasan Rabbi\Desktop\TRI-UNI\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Mehedi Hasan Rabbi\Desktop\TRI-UNI\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Mehedi Hasan Rabbi\Desktop\TRI-UNI\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mehedi Hasan Rabbi\Desktop\TRI-UNI\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Mehedi Hasan Rabbi\Desktop\TRI-UNI\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TRI-UNI\TriUniversity\BLL\obj\Debug\BLL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\ttuu\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\ttuu\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\ttuu\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\ttuu\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\ttuu\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\ttuu\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\ttuu\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\Mehedi Hasan Rabbi\Desktop\ttuu\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Mehedi Hasan Rabbi\Desktop\ttuu\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Mehedi Hasan Rabbi\Desktop\ttuu\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Mehedi Hasan Rabbi\Desktop\ttuu\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mehedi Hasan Rabbi\Desktop\ttuu\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Mehedi Hasan Rabbi\Desktop\ttuu\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\ttuu\TriUniversity\BLL\obj\Debug\BLL.pdb
+C:\Users\asus\Desktop\New folder\New folder\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\asus\Desktop\New folder\New folder\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\asus\Desktop\New folder\New folder\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\asus\Desktop\New folder\New folder\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\asus\Desktop\New folder\New folder\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\asus\Desktop\New folder\New folder\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\asus\Desktop\New folder\New folder\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\asus\Desktop\New folder\New folder\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\asus\Desktop\New folder\New folder\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\asus\Desktop\New folder\New folder\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\New folder\New folder\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\New folder\New folder\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\asus\Desktop\New folder\New folder\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\asus\Desktop\New folder\New folder\TriUniversity\BLL\obj\Debug\BLL.pdb
+C:\Users\Aminul Islam Sagor\Desktop\dot net\updated\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\Aminul Islam Sagor\Desktop\dot net\updated\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\Aminul Islam Sagor\Desktop\dot net\updated\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Aminul Islam Sagor\Desktop\dot net\updated\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\Aminul Islam Sagor\Desktop\dot net\updated\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Aminul Islam Sagor\Desktop\dot net\updated\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\Aminul Islam Sagor\Desktop\dot net\updated\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\Aminul Islam Sagor\Desktop\dot net\updated\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Aminul Islam Sagor\Desktop\dot net\updated\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Aminul Islam Sagor\Desktop\dot net\updated\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Aminul Islam Sagor\Desktop\dot net\updated\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Aminul Islam Sagor\Desktop\dot net\updated\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Aminul Islam Sagor\Desktop\dot net\updated\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\Aminul Islam Sagor\Desktop\dot net\updated\TriUniversity\BLL\obj\Debug\BLL.pdb
+C:\Users\asus\Desktop\New folder (2)\New folder\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\asus\Desktop\New folder (2)\New folder\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\asus\Desktop\New folder (2)\New folder\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\asus\Desktop\New folder (2)\New folder\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\asus\Desktop\New folder (2)\New folder\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\asus\Desktop\New folder (2)\New folder\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\asus\Desktop\New folder (2)\New folder\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\asus\Desktop\New folder (2)\New folder\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\asus\Desktop\New folder (2)\New folder\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\asus\Desktop\New folder (2)\New folder\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\New folder (2)\New folder\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\New folder (2)\New folder\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\asus\Desktop\New folder (2)\New folder\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\asus\Desktop\New folder (2)\New folder\TriUniversity\BLL\obj\Debug\BLL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU5\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU5\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU5\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU5\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU5\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU5\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU5\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU5\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU5\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU5\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU5\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU5\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU5\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU5\TriUniversity\BLL\obj\Debug\BLL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU9\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU9\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU9\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU9\TriUniversity\BLL\obj\Debug\BLL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU9\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU9\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU9\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU9\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU9\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU9\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU9\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU9\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU9\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU9\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\asus\Desktop\New folder (2)\New folder (2)\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\asus\Desktop\New folder (2)\New folder (2)\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\asus\Desktop\New folder (2)\New folder (2)\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\asus\Desktop\New folder (2)\New folder (2)\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\asus\Desktop\New folder (2)\New folder (2)\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\asus\Desktop\New folder (2)\New folder (2)\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\asus\Desktop\New folder (2)\New folder (2)\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\asus\Desktop\New folder (2)\New folder (2)\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\asus\Desktop\New folder (2)\New folder (2)\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\asus\Desktop\New folder (2)\New folder (2)\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\New folder (2)\New folder (2)\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\New folder (2)\New folder (2)\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\asus\Desktop\New folder (2)\New folder (2)\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\asus\Desktop\New folder (2)\New folder (2)\TriUniversity\BLL\obj\Debug\BLL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU11\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU11\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU11\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU11\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU11\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU11\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU11\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU11\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU11\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU11\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU11\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU11\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU11\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU11\TriUniversity\BLL\obj\Debug\BLL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU12\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU12\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU12\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU12\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU12\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU12\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU12\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU12\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU12\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU12\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU12\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU12\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU12\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\Mehedi Hasan Rabbi\Desktop\TU12\TriUniversity\BLL\obj\Debug\BLL.pdb
+C:\Users\asus\Desktop\New folder (2)\New folder (2)88\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\New folder (2)\New folder (2)88\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\New folder (2)\New folder (2)88\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\asus\Desktop\New folder (2)\New folder (2)88\TriUniversity\BLL\obj\Debug\BLL.pdb
+C:\Users\asus\Desktop\New folder (2)\New folder (2)88\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\asus\Desktop\New folder (2)\New folder (2)88\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\asus\Desktop\New folder (2)\New folder (2)88\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\asus\Desktop\New folder (2)\New folder (2)88\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\asus\Desktop\New folder (2)\New folder (2)88\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\asus\Desktop\New folder (2)\New folder (2)88\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\asus\Desktop\New folder (2)\New folder (2)88\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\asus\Desktop\New folder (2)\New folder (2)88\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\asus\Desktop\New folder (2)\New folder (2)88\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\asus\Desktop\New folder (2)\New folder (2)88\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Aminul Islam Sagor\Desktop\dot net\update07\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Aminul Islam Sagor\Desktop\dot net\update07\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Aminul Islam Sagor\Desktop\dot net\update07\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\Aminul Islam Sagor\Desktop\dot net\update07\TriUniversity\BLL\obj\Debug\BLL.pdb
+C:\Users\Aminul Islam Sagor\Desktop\dot net\update07\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\Aminul Islam Sagor\Desktop\dot net\update07\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\Aminul Islam Sagor\Desktop\dot net\update07\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Aminul Islam Sagor\Desktop\dot net\update07\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\Aminul Islam Sagor\Desktop\dot net\update07\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Aminul Islam Sagor\Desktop\dot net\update07\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\Aminul Islam Sagor\Desktop\dot net\update07\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\Aminul Islam Sagor\Desktop\dot net\update07\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Aminul Islam Sagor\Desktop\dot net\update07\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Aminul Islam Sagor\Desktop\dot net\update07\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\asus\Desktop\New folder (2)\Final\TriUniversity\BLL\bin\Debug\BLL.dll
+C:\Users\asus\Desktop\New folder (2)\Final\TriUniversity\BLL\bin\Debug\BLL.pdb
+C:\Users\asus\Desktop\New folder (2)\Final\TriUniversity\BLL\bin\Debug\AutoMapper.dll
+C:\Users\asus\Desktop\New folder (2)\Final\TriUniversity\BLL\bin\Debug\DAL.dll
+C:\Users\asus\Desktop\New folder (2)\Final\TriUniversity\BLL\bin\Debug\EntityFramework.dll
+C:\Users\asus\Desktop\New folder (2)\Final\TriUniversity\BLL\bin\Debug\DAL.pdb
+C:\Users\asus\Desktop\New folder (2)\Final\TriUniversity\BLL\bin\Debug\DAL.dll.config
+C:\Users\asus\Desktop\New folder (2)\Final\TriUniversity\BLL\bin\Debug\AutoMapper.xml
+C:\Users\asus\Desktop\New folder (2)\Final\TriUniversity\BLL\bin\Debug\EntityFramework.xml
+C:\Users\asus\Desktop\New folder (2)\Final\TriUniversity\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\New folder (2)\Final\TriUniversity\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\New folder (2)\Final\TriUniversity\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\asus\Desktop\New folder (2)\Final\TriUniversity\BLL\obj\Debug\BLL.dll
+C:\Users\asus\Desktop\New folder (2)\Final\TriUniversity\BLL\obj\Debug\BLL.pdb
