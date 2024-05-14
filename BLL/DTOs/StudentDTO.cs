@@ -38,12 +38,12 @@ namespace BLL.DTOs
         [StringLength(50, MinimumLength = 6, ErrorMessage = "Password must be between 6 and 50 characters")]
         public string Password { get; set; }
 
-        [Required(ErrorMessage = "Invalid gender")]
+        [Required( ErrorMessage = "Invalid gender")]
         public string Gender { get; set; }
 
-
+       
     }
 
-
+   
 }
 

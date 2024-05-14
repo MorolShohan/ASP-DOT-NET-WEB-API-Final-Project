@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4C663818-6065-478A-B19B-B4E6C8455692}</ProjectGuid>
+    <ProjectGuid>{4A043854-4B9C-4DAC-BC17-CC43F8E4C52C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BLL</RootNamespace>
@@ -32,9 +32,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AutoMapper, Version=10.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
-      <HintPath>..\packages\AutoMapper.10.1.1\lib\net461\AutoMapper.dll</HintPath>
+      <HintPath>..\packages\AutoMapper.10.0.0\lib\net461\AutoMapper.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -45,17 +46,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="DTOs\AdminDTO.cs" />
+    <Compile Include="DTOs\MgsDTO.cs" />
+    <Compile Include="DTOs\PostCommentDto.cs" />
+    <Compile Include="DTOs\ReplyMgsDto.cs" />
+    <Compile Include="DTOs\StudentCommentDTO.cs" />
     <Compile Include="DTOs\StudentDTO.cs" />
-    <Compile Include="DTOs\TokenDTO.cs" />
+    <Compile Include="DTOs\StudentPostDTO.cs" />
+    <Compile Include="DTOs\UMgsDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Services\AdminAuthService.cs" />
-    <Compile Include="Services\AdminService.cs" />
-    <Compile Include="Services\StudentService.cs" />
+    <Compile Include="Services\AuthService.cs" />
+    <Compile Include="Services\SAuthService.cs" />
+    <Compile Include="Services\StudentCourseService.cs" />
+    <Compile Include="Services\StudentMgsService.cs" />
+    <Compile Include="Services\StudentPostService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DAL\DAL.csproj">
-      <Project>{918fb4a3-d4a6-4196-b37b-3aefadde183b}</Project>
+      <Project>{1817e9a5-71af-4387-a4f3-a5619401193f}</Project>
       <Name>DAL</Name>
     </ProjectReference>
   </ItemGroup>
