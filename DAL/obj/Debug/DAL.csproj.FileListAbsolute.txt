@@ -1,0 +1,31 @@
+D:\DOT NET\CourseProject\DAL\bin\Debug\DAL.dll.config
+D:\DOT NET\CourseProject\DAL\bin\Debug\DAL.dll
+D:\DOT NET\CourseProject\DAL\bin\Debug\DAL.pdb
+D:\DOT NET\CourseProject\DAL\bin\Debug\EntityFramework.dll
+D:\DOT NET\CourseProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\DOT NET\CourseProject\DAL\bin\Debug\EntityFramework.xml
+D:\DOT NET\CourseProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\DOT NET\CourseProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DOT NET\CourseProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DOT NET\CourseProject\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\DOT NET\CourseProject\DAL\obj\Debug\DAL.dll
+D:\DOT NET\CourseProject\DAL\obj\Debug\DAL.pdb
+D:\DOT NET\CourseProject\DAL\obj\Debug\DAL.Migrations.initDB.resources
+D:\DOT NET\CourseProject\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\DOT NET\CourseProject\DAL\obj\Debug\DAL.Migrations.databaseupdated.resources
+D:\DOT NET final assignment\CourseProject\DAL\bin\Debug\DAL.dll.config
+D:\DOT NET final assignment\CourseProject\DAL\bin\Debug\DAL.dll
+D:\DOT NET final assignment\CourseProject\DAL\bin\Debug\DAL.pdb
+D:\DOT NET final assignment\CourseProject\DAL\bin\Debug\EntityFramework.dll
+D:\DOT NET final assignment\CourseProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\DOT NET final assignment\CourseProject\DAL\bin\Debug\EntityFramework.xml
+D:\DOT NET final assignment\CourseProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\DOT NET final assignment\CourseProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DOT NET final assignment\CourseProject\DAL\obj\Debug\DAL.Migrations.initDB.resources
+D:\DOT NET final assignment\CourseProject\DAL\obj\Debug\DAL.Migrations.databaseupdated.resources
+D:\DOT NET final assignment\CourseProject\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\DOT NET final assignment\CourseProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DOT NET final assignment\CourseProject\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\DOT NET final assignment\CourseProject\DAL\obj\Debug\DAL.dll
+D:\DOT NET final assignment\CourseProject\DAL\obj\Debug\DAL.pdb
+D:\DOT NET final assignment\CourseProject\DAL\obj\Debug\DAL.Migrations.TokenDB.resources

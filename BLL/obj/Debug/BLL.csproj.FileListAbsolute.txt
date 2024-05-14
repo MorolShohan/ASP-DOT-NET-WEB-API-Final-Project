@@ -1,0 +1,28 @@
+D:\DOT NET\CourseProject\BLL\bin\Debug\BLL.dll
+D:\DOT NET\CourseProject\BLL\bin\Debug\BLL.pdb
+D:\DOT NET\CourseProject\BLL\bin\Debug\AutoMapper.dll
+D:\DOT NET\CourseProject\BLL\bin\Debug\DAL.dll
+D:\DOT NET\CourseProject\BLL\bin\Debug\EntityFramework.dll
+D:\DOT NET\CourseProject\BLL\bin\Debug\DAL.pdb
+D:\DOT NET\CourseProject\BLL\bin\Debug\DAL.dll.config
+D:\DOT NET\CourseProject\BLL\bin\Debug\AutoMapper.xml
+D:\DOT NET\CourseProject\BLL\bin\Debug\EntityFramework.xml
+D:\DOT NET\CourseProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\DOT NET\CourseProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\DOT NET\CourseProject\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\DOT NET\CourseProject\BLL\obj\Debug\BLL.dll
+D:\DOT NET\CourseProject\BLL\obj\Debug\BLL.pdb
+D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\BLL.dll
+D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\BLL.pdb
+D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\AutoMapper.dll
+D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\DAL.dll
+D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\EntityFramework.dll
+D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\DAL.pdb
+D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\DAL.dll.config
+D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\AutoMapper.xml
+D:\DOT NET final assignment\CourseProject\BLL\bin\Debug\EntityFramework.xml
+D:\DOT NET final assignment\CourseProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\DOT NET final assignment\CourseProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\DOT NET final assignment\CourseProject\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\DOT NET final assignment\CourseProject\BLL\obj\Debug\BLL.dll
+D:\DOT NET final assignment\CourseProject\BLL\obj\Debug\BLL.pdb

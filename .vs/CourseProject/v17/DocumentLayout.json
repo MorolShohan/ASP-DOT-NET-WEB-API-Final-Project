@@ -1,0 +1,529 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT NET final assignment\\CourseProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|d:\\dot net final assignment\\courseproject\\bll\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\CourseProject\\bll\\services\\adminauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\services\\adminauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|d:\\dot net final assignment\\courseproject\\dal\\repos\\instructorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\instructorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|D:\\DOT NET final assignment\\CourseProject\\courseproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|d:\\dot net final assignment\\courseproject\\courseproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\CourseProject\\bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|d:\\dot net final assignment\\courseproject\\dal\\migrations\\202405140709414_tokendb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405140709414_tokendb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\models\\econtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\econtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\repos\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\CourseProject\\bll\\dtos\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\interface\\inrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\inrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOT NET\\CourseProject\\BLL\\Services\\AdminAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\migrations\\202404281917362_databaseupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202404281917362_databaseupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\migrations\\202404261255348_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202404261255348_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|D:\\DOT NET final assignment\\CourseProject\\courseproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{74F6564F-EC9A-4903-AC81-75A3F6BA5872}|CourseProject\\CourseProject.csproj|solutionrelative:courseproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\models\\adminagerangeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\adminagerangeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\models\\admincoursestatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\admincoursestatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOT NET\\TriUniversity-main\\BLL\\Services\\AdminAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOT NET\\TriUniversity-main\\DAL\\Repos\\Repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\StudentMgsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|D:\\DOT NET final assignment\\CourseProject\\dal\\interface\\sauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918FB4A3-D4A6-4196-B37B-3AEFADDE183B}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\sauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|D:\\DOT NET final assignment\\CourseProject\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C663818-6065-478A-B19B-B4E6C8455692}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstructorRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Repos\\InstructorRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\InstructorRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Repos\\InstructorRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\InstructorRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:26:49.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Interface\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Interface\\IRepo.cs*",
+              "RelativeToolTip": "DAL\\Interface\\IRepo.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:12:02.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Interface\\InRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\InRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Interface\\InRepo.cs",
+              "RelativeToolTip": "DAL\\Interface\\InRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:14:56.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Admin.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Models\\Admin.cs",
+              "RelativeToolTip": "DAL\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:21:04.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\BLL\\DTOs\\AdminDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\AdminDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\BLL\\DTOs\\AdminDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\AdminDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:25:47.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminAuthService.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\BLL\\Services\\AdminAuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AdminAuthService.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\BLL\\Services\\AdminAuthService.cs",
+              "RelativeToolTip": "BLL\\Services\\AdminAuthService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:06:11.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Token.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Token.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Models\\Token.cs",
+              "RelativeToolTip": "DAL\\Models\\Token.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:34:11.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EContext.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Models\\EContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\EContext.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Models\\EContext.cs",
+              "RelativeToolTip": "DAL\\Models\\EContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:41:43.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:28:42.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "202405140709414_TokenDB.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Migrations\\202405140709414_TokenDB.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405140709414_TokenDB.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Migrations\\202405140709414_TokenDB.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405140709414_TokenDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:09:46.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\BLL\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AdminService.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\BLL\\Services\\AdminService.cs",
+              "RelativeToolTip": "BLL\\Services\\AdminService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:23:19.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Repos\\AdminRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\AdminRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Repos\\AdminRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\AdminRepo.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwDkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:08:58.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\CourseProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CourseProject\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\CourseProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CourseProject\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:13:51.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\TokenRepo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Repos\\TokenRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\TokenRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:16:21.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\CourseProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CourseProject\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\CourseProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CourseProject\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA0wC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:21:18.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\TokenDTO.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\TokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:12:35.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminAuthService.cs",
+              "DocumentMoniker": "D:\\DOT NET\\CourseProject\\BLL\\Services\\AdminAuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOT NET\\CourseProject\\BLL\\Services\\AdminAuthService.cs",
+              "ToolTip": "D:\\DOT NET\\CourseProject\\BLL\\Services\\AdminAuthService.cs",
+              "RelativeToolTip": "..\\..\\DOT NET\\CourseProject\\BLL\\Services\\AdminAuthService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:50:42.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminAgeRangeResult.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Models\\AdminAgeRangeResult.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\AdminAgeRangeResult.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Models\\AdminAgeRangeResult.cs",
+              "RelativeToolTip": "DAL\\Models\\AdminAgeRangeResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:28:21.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA0wB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:49:21.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:07:16.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\CourseProject\\Web.config",
+              "RelativeDocumentMoniker": "CourseProject\\Web.config",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\CourseProject\\Web.config",
+              "RelativeToolTip": "CourseProject\\Web.config",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-26T12:43:02.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "202404281917362_databaseupdated.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Migrations\\202404281917362_databaseupdated.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202404281917362_databaseupdated.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Migrations\\202404281917362_databaseupdated.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202404281917362_databaseupdated.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:17:40.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "202404261255348_initDB.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Migrations\\202404261255348_initDB.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202404261255348_initDB.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Migrations\\202404261255348_initDB.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202404261255348_initDB.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:55:49.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminCourseStatistics.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Models\\AdminCourseStatistics.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\AdminCourseStatistics.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Models\\AdminCourseStatistics.cs",
+              "RelativeToolTip": "DAL\\Models\\AdminCourseStatistics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:29:00.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "..\\..\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:09:48.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SAuth.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Interface\\SAuth.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\SAuth.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\DAL\\Interface\\SAuth.cs",
+              "RelativeToolTip": "DAL\\Interface\\SAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:09:26.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminAuthService.cs",
+              "DocumentMoniker": "D:\\DOT NET\\TriUniversity-main\\BLL\\Services\\AdminAuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOT NET\\TriUniversity-main\\BLL\\Services\\AdminAuthService.cs",
+              "ToolTip": "D:\\DOT NET\\TriUniversity-main\\BLL\\Services\\AdminAuthService.cs",
+              "RelativeToolTip": "..\\..\\DOT NET\\TriUniversity-main\\BLL\\Services\\AdminAuthService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:09:48.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Web.config",
+              "RelativeDocumentMoniker": "..\\..\\DOT NET\\TriUniversity-main\\TriUniversity\\Web.config",
+              "ToolTip": "D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Web.config",
+              "RelativeToolTip": "..\\..\\DOT NET\\TriUniversity-main\\TriUniversity\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-27T10:09:48.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentMgsController.cs",
+              "DocumentMoniker": "D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\StudentMgsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\StudentMgsController.cs",
+              "ToolTip": "D:\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\StudentMgsController.cs",
+              "RelativeToolTip": "..\\..\\DOT NET\\TriUniversity-main\\TriUniversity\\Controllers\\StudentMgsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:09:48.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\DOT NET\\TriUniversity-main\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOT NET\\TriUniversity-main\\DAL\\Repos\\Repo.cs",
+              "ToolTip": "D:\\DOT NET\\TriUniversity-main\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "..\\..\\DOT NET\\TriUniversity-main\\DAL\\Repos\\Repo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:09:48.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\DOT NET final assignment\\CourseProject\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "D:\\DOT NET final assignment\\CourseProject\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:17:11.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
