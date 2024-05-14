@@ -71,11 +71,12 @@
     <Compile Include="Models\Admin.cs" />
     <Compile Include="Models\AdminAgeRangeResult.cs" />
     <Compile Include="Models\AdminCourseStatistics.cs" />
+    <Compile Include="Models\Student.cs" />
     <Compile Include="Models\EContext.cs" />
     <Compile Include="Models\Token.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\AdminRepo.cs" />
-    <Compile Include="Repos\InstructorRepo.cs" />
+    <Compile Include="Repos\StudentRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
     <Compile Include="Repos\TokenRepo.cs" />
   </ItemGroup>
