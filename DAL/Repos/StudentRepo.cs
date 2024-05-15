@@ -10,111 +10,111 @@ namespace DAL.Repos
 {
     namespace DAL.Repos
     {
-        internal class StudentRepo : Repo, SRepo<Student, int, Student, string>, SAuth<bool>
-        {
-            public bool Authenticatee(string Email, string password)
+            internal class StudentRepo : Repo, SRepo<Student, int, Student,string>, SAuth<bool>
             {
-                var data = db.Students.FirstOrDefault(e => e.Email.Equals(Email) && e.Password.Equals(password));
-
-                if (data != null)
+                public bool Authenticatee(string Email, string password)
                 {
-                    return true;
+                    var data = db.Students.FirstOrDefault(e => e.Email.Equals(Email) && e.Password.Equals(password));
+
+                    if (data != null)
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        return false;
+                    }
                 }
-                else
+
+
+
+
+
+
+
+
+
+                public Student Create(Student obj)
                 {
-                    return false;
-                }
-            }
+                    // Check if an account with the same email already exists
+                    var existingAccount = db.Students.FirstOrDefault(s => s.Email == obj.Email);
 
+                    if (existingAccount != null)
+                    {
+                        // An account with the same email already exists, you can handle this scenario
+                        // For example, you can throw an exception or return null to indicate failure
+                        return null;
+                    }
 
+                    // Continue with creating a new account
+                    obj.DateOfAccount = DateTime.Now;
+                    obj.Active = 1;
+                    db.Students.Add(obj);
 
+                    if (db.SaveChanges() > 0)
+                    {
+                        return obj;
+                    }
 
-
-
-
-
-
-            public Student Create(Student obj)
-            {
-                // Check if an account with the same email already exists
-                var existingAccount = db.Students.FirstOrDefault(s => s.Email == obj.Email);
-
-                if (existingAccount != null)
-                {
-                    // An account with the same email already exists, you can handle this scenario
-                    // For example, you can throw an exception or return null to indicate failure
                     return null;
                 }
 
-                // Continue with creating a new account
-                obj.DateOfAccount = DateTime.Now;
-                obj.Active = 1;
-                db.Students.Add(obj);
 
-                if (db.SaveChanges() > 0)
+                public bool Delete(int id)
                 {
-                    return obj;
+                    var existingStudent = Read(id);
+                    if (existingStudent != null)
+                    {
+                        db.Students.Remove(existingStudent);
+                        db.SaveChanges();
+                        return true;
+                    }
+                    return false;
                 }
 
-                return null;
-            }
-
-
-            public bool Delete(int id)
-            {
-                var existingStudent = Read(id);
-                if (existingStudent != null)
+                public Student Get(Student obj)
                 {
-                    db.Students.Remove(existingStudent);
-                    db.SaveChanges();
-                    return true;
+                    var data = db.Students.FirstOrDefault(Student => Student.Password == obj.Password && Student.Email == obj.Email);
+
+                    return data;
                 }
-                return false;
-            }
 
-            public Student Get(Student obj)
-            {
-                var data = db.Students.FirstOrDefault(Student => Student.Password == obj.Password && Student.Email == obj.Email);
+                public List<Student> GetPost(int id)
+                {
+                    throw new NotImplementedException();
+                }
 
-                return data;
-            }
+                public List<Student> GetPosts(int id)
+                {
+                    throw new NotImplementedException();
+                }
 
-            public List<Student> GetPost(int id)
-            {
-                throw new NotImplementedException();
-            }
+                public Student Read(int id)
+                {
+                    return db.Students.Find(id);
+                }
 
-            public List<Student> GetPosts(int id)
-            {
-                throw new NotImplementedException();
-            }
-
-            public Student Read(int id)
-            {
-                return db.Students.Find(id);
-            }
-
-            public List<Type> Read()
-            {
-                throw new NotImplementedException();
-            }
+                public List<Type> Read()
+                {
+                    throw new NotImplementedException();
+                }
 
             public Student Reademail(string id)
             {
                 return db.Students.Where(student => student.Email == id).FirstOrDefault();
             }
 
-
+            
 
             public Student Update(Student obj)
-            {
-                var existingStudent = Read(obj.Id);
-                db.Entry(existingStudent).CurrentValues.SetValues(obj);
-                if (db.SaveChanges() > 0) return obj;
-                return null;
+                {
+                    var existingStudent = Read(obj.Id);
+                    db.Entry(existingStudent).CurrentValues.SetValues(obj);
+                    if (db.SaveChanges() > 0) return obj;
+                    return null;
+                }
+
+
             }
-
-
-        }
     }
-}
+ }
